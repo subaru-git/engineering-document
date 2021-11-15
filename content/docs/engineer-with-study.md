@@ -1,7 +1,6 @@
 ---
 title: "エンジニアは勉強し続けるべきなのか"
 weight: 4
-bookToc: true
 ---
 
 # エンジニアは勉強し続けるべきなのか
@@ -50,7 +49,7 @@ bookToc: true
 ## 音ならなんとか:
 
  - Podcastを聞いていけばいい
-   - Rebuild.fmとかとりあえずおもしろい
+   - [Rebuild.fm](https://rebuild.fm/)とかとりあえずおもしろい
 
 ## 他にも:
 
